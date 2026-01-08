@@ -1,6 +1,6 @@
 
-	 name : Srinikhil
+	 name : manindra1
 
-	 email : 23eg107d17@gmail.com
+	 email : 23eg107d29@anurag.edu.in
 
-	 password : 123456789
+	 password : i love you ra 'M'
